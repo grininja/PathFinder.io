@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PathFinder.io/static/css/main.1c56cd49.chunk.css",
+    "main.js": "/PathFinder.io/static/js/main.cda79fba.chunk.js",
+    "main.js.map": "/PathFinder.io/static/js/main.cda79fba.chunk.js.map",
+    "runtime-main.js": "/PathFinder.io/static/js/runtime-main.652618b1.js",
+    "runtime-main.js.map": "/PathFinder.io/static/js/runtime-main.652618b1.js.map",
+    "static/js/2.64f75cad.chunk.js": "/PathFinder.io/static/js/2.64f75cad.chunk.js",
+    "static/js/2.64f75cad.chunk.js.map": "/PathFinder.io/static/js/2.64f75cad.chunk.js.map",
+    "index.html": "/PathFinder.io/index.html",
+    "static/css/main.1c56cd49.chunk.css.map": "/PathFinder.io/static/css/main.1c56cd49.chunk.css.map",
+    "static/js/2.64f75cad.chunk.js.LICENSE.txt": "/PathFinder.io/static/js/2.64f75cad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.652618b1.js",
+    "static/js/2.64f75cad.chunk.js",
+    "static/css/main.1c56cd49.chunk.css",
+    "static/js/main.cda79fba.chunk.js"
+  ]
+}
