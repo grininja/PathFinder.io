@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <PathfindingVisualizer></PathfindingVisualizer>
+      <h3>Made with❤by Grininja</h3>
     </div>
   );
 }
